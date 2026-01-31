@@ -6,3 +6,4 @@ PR testing 12453
 PR testing 12453 dummyMsg
 PR testing 12453 dummyMsg enter
 PR TESTing 123
+PR TESTing 123 with screen record
